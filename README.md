@@ -2,4 +2,5 @@
 Documentation on variouses and sundries
 
 
-Now is the time for all good people to ...where was I?
+Today is the first day of the rest of your ..huh?
+
