@@ -2,5 +2,5 @@
 Documentation on variouses and sundries
 
 
-Today is the first day of the rest of your ..huh?
+A new line is now longer than ever.
 
